@@ -1,0 +1,21 @@
+body{
+    color: black;
+    background-color: hsl(100, 60%, 33%);
+    font-family:'Times New Roman', Times, serif;
+}
+#recipe-list li a{
+    font-size: 20px;
+    color: hsl(200, 70%, 53%);
+    font-weight: bold;
+    text-decoration: none;
+}
+a{
+    font-size: 20px;
+    color: hsl(200, 70%, 53%);
+    font-weight: bold;
+    text-decoration: none;
+}
+img{
+    width: 400px;
+    height: auto;
+}
